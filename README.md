@@ -11,17 +11,17 @@ Arcane is an animated series set in the world of League of Legends. It mainly fo
 
 
 ## Voice cast and characters
-1. Hailee Steinfeld as **Violet / "Vi"**
-2. Ella Purnell as Powder / Jinx
-3. Kevin Alejandro as Jayce Talis
-4. Katie Leung as Caitlyn Kiramman
-5. Jason Spisak as Silco
-6. Harry Lloyd as Viktor
-7. JB Blanc as Vander
-8. Reed Shannon as Ekko
-9. Mick Wingert as Cecil B. Heimerdinger
-10. Ellen Thomas as Ambessa Medarda
-11. Brett Tucker as Dr. Corin Reveck / Singed
+1. Hailee Steinfeld as *Violet / "Vi"*
+2. Ella Purnell as *Powder / Jinx*
+3. Kevin Alejandro as *Jayce Talis*
+4. Katie Leung as *Caitlyn Kiramman*
+5. Jason Spisak as *Silco*
+6. Harry Lloyd as *Viktor*
+7. JB Blanc as *Vander*
+8. Reed Shannon as *Ekko*
+9. Mick Wingert as *Cecil B. Heimerdinger*
+10. Ellen Thomas as *Ambessa Medarda*
+11. Brett Tucker as *Dr. Corin Reveck / Singed*
 
 
 ## Why I liked Arcane
